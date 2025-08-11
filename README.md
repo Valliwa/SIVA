@@ -209,7 +209,7 @@ LLM Analysis → Evaluation → Learning → Memory Update
 
 ## Statement on Generative AI Usage 
 
-Given the implementation heavy and ambitious nature of this project, I have made use of modern software tools for producing this implementation. Namely, I have made extensive use of Claude-4 Sonnet [1] to aid me with the following:
+Given the implementation heavy and ambitious nature of this project, I have made use of modern software tools in its production process. Namely, I have made extensive use of Claude-4 Sonnet [1] to aid me with the following:
 
 - **Debugging and error fixing**
 - **Method prototyping**
