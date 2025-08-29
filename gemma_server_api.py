@@ -21,7 +21,7 @@ References:
 [1] Google DeepMind (2024), Gemma3 (https://deepmind.google/models/gemma/gemma-3/)
 [2] Anthropic (2025), Claude-4 Sonnet (https://www.anthropic.com/claude/sonnet)
 
-Author: Valentin Waliscewski
+Author: Valentin Walischewski
 
 """
 
