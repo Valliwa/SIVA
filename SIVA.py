@@ -6,6 +6,7 @@ Based on:
 - REVOLVE [1]: https://github.com/Peiyance/REVOLVE
 - SecVulEval Dataset [2]: https://huggingface.co/datasets/arag0rn/SecVulEval
 - SICA (Self-Improving Coding Agent) [3]: https://github.com/MaximeRobeyns/self_improving_coding_agent
+- MD5 hash: https://www.geeksforgeeks.org/python/md5-hash-python/
 
 Utilizing:
 - Gemma3 [4]: https://deepmind.google/models/gemma/gemma-3/
@@ -19,6 +20,8 @@ References:
 [3] Robeyns et al. (2025), A Self-Improving Coding Agent (https://arxiv.org/abs/2504.15228)
 [4] Google DeepMind (2024), Gemma3 (https://deepmind.google/models/gemma/gemma-3/)
 [5] Anthropic (2025), Claude-4 Sonnet (https://www.anthropic.com/claude/sonnet)
+[6] Kashmar (2024), Enhancing blockchain security by developing the sha256 algorithm
+(https://www.researchgate.net/publication/385099334_Enhancing_Blockchain_Security_by_Developing_the_SHA256_Algorithm)
 
 
 Author: Valentin Walischewski
